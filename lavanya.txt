@@ -1,2 +1,6 @@
 ---
+<<<<<<< HEAD
 hi , how are you venkatesh?
+=======
+hi , how are you dude?
+>>>>>>> venkat
