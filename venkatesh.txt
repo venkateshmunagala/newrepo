@@ -1,0 +1,10 @@
+class venkatesh{
+
+
+publicstatic void main(string args[])
+{
+
+enjoy
+}
+
+}
